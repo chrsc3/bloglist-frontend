@@ -1,0 +1,38 @@
+h1 {
+  font-style: italic;
+}
+
+.blog {
+  font-size: 14px;
+  display: inline-block;
+  margin-right: 10px;
+  width: 45%;
+  word-wrap: break-word;
+  border: 3px solid black; /* Agrega un borde negro de 1px */
+  margin: 8px;
+}
+
+.error {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.success {
+  color: green;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+button {
+  margin-left: 10px;
+}
+form {
+  display: inline-flexbox;
+}
